@@ -1,3 +1,0 @@
-require 'spec-helper'
-
-# describe 
